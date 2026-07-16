@@ -1,0 +1,8 @@
+CMakeFiles/
+CMakeCache.txt
+Makefile
+code
+*.o
+*.a
+*.so
+.DS_Store
